@@ -1,1 +1,2 @@
 testing how this works
+terminal in VS code
